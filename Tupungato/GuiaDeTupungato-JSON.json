@@ -1,0 +1,827 @@
+{
+    "data": {
+        "Comercios": {
+            "Academias": [
+                {
+                    "nombre": "Academia de Danzas Folcloricas Las Estrellas Bailan",
+                    "telefono": "02622-488823 / 02622-489259",
+                    "direccion": "Gottardini N°44(Salon UCR)"
+                },
+                {
+                    "nombre": "Academia de Danzas Wahed",
+                    "telefono": "2622-400556",
+                    "direccion": "Roca 110"
+                }
+            ],
+            "Agencias de Autos": [
+                {
+                    "nombre": "Auto Key",
+                    "telefono": "0261-4312268",
+                    "direccion": "Adolfo Calle 534 – Dorrego – Guaymallen. - Mendoza"
+                }
+            ],
+            "Armerias": [
+                {
+                    "nombre": "Casa Leon",
+                    "telefono": "2622-466444",
+                    "direccion": "Dir.: Belgrano 818",
+                    "facebook": "Casa Leon"
+                }
+            ],
+            "Artesanias": [
+                {
+                    "nombre": "Arte en Vidrio Norma Renzi",
+                    "telefono": "2622-668202",
+                    "direccion": "Liniers 475"
+                }
+            ],
+            "Cabañas": [
+                {
+                    "nombre": "Cabañas La Dulce",
+                    "telefono": "2622-629655 / 2622-662312",
+                    "direccion": "La Vencedora s/n",
+                    "email": "ladulcetupungato@hotmail.com",
+                    "web": "www.cabanasladulce.com.ar"
+                }
+            ],
+            "Cable Canal": [
+                {
+                    "nombre": "CTC Television Tel.",
+                    "web": "www.cabletelevisoracolor.com.ar"
+                }
+            ],
+            "Carnicerias": [
+                {
+                    "nombre": "Carniceria y Verduleria Bel-Nor",
+                    "direccion": "Belgrano Norte y Lucas Pizarro"
+                }
+            ],
+            "Casas de Comidas": [
+                {
+                    "nombre": "Mamá Pina",
+                    "telefono": "2622-488757 / 2622-675175 ",
+                    "direccion": "Los Fresnos 582  "
+                },
+                {
+                    "nombre": "Mas Sabor Comidas",
+                    "telefono": "02622-489926 / 2622-544243",
+                    "direccion": "Las Heras 310"
+                },
+                {
+                    "nombre": "Mucho Gusto ",
+                    "telefono": "2622-583834",
+                    "direccion": "Centenario 130"
+                },
+                {
+                    "nombre": "Prontopizza delivery",
+                    "telefono": "02622-48969",
+                    "direccion": "Lamadrid 50"
+                }
+            ],
+            "Casas de Te": [
+                {
+                    "nombre": "Gualtapinkanta",
+                    "telefono": "2622-629655 / 2622-662312",
+                    "direccion": "La Vencedora s/n",
+                    "facebook": "Gualta Pinkanta"
+                }
+            ],
+            "Corralones": [
+                {
+                    "nombre": "Alba Corralon Forrajero - Almacen de Campo",
+                    "telefono": "2622-587534",
+                    "direccion": "Liniers 1079"
+                }
+            ],
+            "Cosmeticos": [
+                {
+                    "nombre": "María Grifol vendedora Bioesencia",
+                    "telefono": "02622-488341",
+                    "direccion": "Yrigoyen 235"
+                }
+            ],
+            "Costura": [
+                {
+                    "nombre": "Confecciones Zulema ",
+                    "telefono": "02622-489709",
+                    "direccion": "Lemos 46"
+                }
+            ],
+            "Cotillones": [
+                {
+                    "nombre": "Las Mil y una Noches",
+                    "telefono": "2622-400401",
+                    "direccion": "Belgrano 616"
+                },
+                {
+                    "nombre": "Mak-Tub",
+                    "direccion": "Belgrano 74"
+                }
+            ],
+            "Descartables": [
+                {
+                    "nombre": "Interplast",
+                    "direccion": "Centenario y Las Heras",
+                    "telefono": "2622-594935 / 261-2006909",
+                    "nextel": "741*1995",
+                    "email": "gustavo.arenzi@hotmail.com"
+                }
+            ],
+            "Electricidad del Automotor": [
+                {
+                    "nombre": "Claudio Miranda",
+                    "direccion": "Belgrano Norte y Cabernet B° Jardín el Sauce M B - C 10",
+                    "telefono": "2622-523444",
+                    "nextel": "713*6062"
+                }
+            ],
+            "Fabricas de Hielos": [
+                {
+                    "nombre": "El Señor Hielo",
+                    "telefono": "2622-400401 / 2622-436430"
+                }
+            ],
+            "Farmacias": [
+                {
+                    "nombre": "Fazzio",
+                    "direccion": "Av. Belgrano 1140",
+                    "telefono": "02622-488491"
+                },
+                {
+                    "nombre": "Mazzeo",
+                    "direccion": "Av. Belgrano 1110",
+                    "telefono": "02622-488219"
+                },
+                {
+                    "nombre": "San Francisco de Asís",
+                    "direccion": "Av. Belgrano 1200",
+                    "telefono": "02622-488681"
+                },
+                {
+                    "nombre": "San Jose",
+                    "direccion": "Av. Belgrano 598",
+                    "telefono": "02622-488052"
+                },
+                {
+                    "nombre": "San Martín de Porres",
+                    "direccion": "Av. Belgrano",
+                    "telefono": "02622-488088"
+                },
+                {
+                    "nombre": "Tupungato",
+                    "direccion": "Liniers 399",
+                    "telefono": "02622-488276"
+                },
+                {
+                    "nombre": "Tupungato 2",
+                    "direccion": "Las Heras 1294",
+                    "telefono": "02622-489770"
+                }
+            ],
+            "Ferreterias": [
+                {
+                    "nombre": "Casa Leon",
+                    "direccion": "Belgrano 818",
+                    "telefono": "2622-466444",
+                    "facebook": "Casa Leon"
+                },
+                {
+                    "nombre": "Grupo La Alianza SA",
+                    "direccion": "Alte. Brown 939",
+                    "telefono": "02622-489110"
+                }
+            ],
+            "Fletes": [
+                {
+                    "nombre": "Expreso El Chasqui",
+                    "direccion": "B° Solares de Correa M-C C-4",
+                    "telefono": "261-4542823",
+                    "nextel": "589*5292",
+                    "email": "sergio_elchasqui@hotmail.com"
+                },
+                {
+                    "nombre": "Expreso El Chasqui",
+                    "telefono": "02622-489483 / 2622-660607",
+                    "nextel": "785*5166"
+                }
+            ],
+            "Florerias": [
+                {
+                    "nombre": "Flores Marifa",
+                    "direccion": "Belgrano y Chaca",
+                    "telefono": "2622-463761"
+                }
+            ],
+            "Gimnasios": [
+                {
+                    "nombre": "Nair Nievas – Zumba Fitness",
+                    "telefono": "2622-586888",
+                    "facebook": "Nair M.Nievas Belarde",
+                    "web": "www.nairnievas.zumba.com"
+                },
+                {
+                    "nombre": "Instructora Norma Renzi",
+                    "direccion": "Liniers 475",
+                    "telefono": "2622-668202"
+                }
+            ],
+            "Heladerias": [
+                {
+                    "nombre": "Capriccio Waffles y Helados",
+                    "telefono": "2622-674539",
+                    "direccion": "Belgrano 570",
+                    "facebook": "Capriccio Waffles y Helados"
+                },
+                {
+                    "nombre": "Helados Artesanales San Nicolas",
+                    "direccion": "Belgrano 665"
+                }
+            ],
+            "Hoteles": [
+                {
+                    "nombre": "Hotel Turismo",
+                    "telefono": "02622-488007",
+                    "direccion": "Av. Belgrano 1066"
+                }
+            ],
+            "Iluminacion": [
+                {
+                    "nombre": "Electro Tupungato",
+                    "telefono": "2622-489228",
+                    "direccion": "Almirate Brown y Correa",
+                    "email": "gerencia@electrotupungato.com.ar",
+                    "web": "www.electrotupungato.com.ar"
+                },
+                {
+                    "nombre": "FB LED",
+                    "telefono": "261-3001059",
+                    "facebook": "FB Iluminación Led",
+                    "email": "fb_iluminacionled@yahoo.com.ar"
+                },
+                {
+                    "nombre": "K-G",
+                    "telefono": "02622-487246 / 2622-430511 / 2622-433000",
+                    "direccion": "Belgrano 634",
+                    "email": "kg.electricidadeiluminacion@live.com"
+                }
+            ],
+            "Inmobiliarias": [
+                {
+                    "nombre": "Marcelo M. Mendez y Asociados",
+                    "telefono": "2622-400506 / 261-5163390",
+                    "email": "marcelomiguelmendez@hotmail.com"
+                },
+                {
+                    "nombre": "Martín Blanco",
+                    "telefono": "2622-537803",
+                    "email": "juanmartinbc@live.com"
+                }
+            ],
+            "Jardin Maternal": [
+                {
+                    "nombre": "Jardín Maternal Don Grillo",
+                    "telefono": "2622-441811 / 2622-678540",
+                    "direccion": "Liniers 1013"
+                },
+                {
+                    "nombre": "Jardín Maternal La Rana Rona",
+                    "telefono": "2622-688282",
+                    "direccion": "Liniers 892"
+                }
+            ],
+            "Kioskos": [
+                {
+                    "nombre": "Maxikiosco Centro",
+                    "telefono": "02622-488894",
+                    "direccion": "Belgrano 715"
+                }
+            ],
+            "Lanas": [
+                {
+                    "nombre": "Hachete",
+                    "telefono": "02622-487158 / 2622-588359 / 261-2439814",
+                    "direccion": "Alte. Brown 662",
+                    "facebook": "HacheteLanas"
+                }
+            ],
+            "Materiales para la Construcción": [
+                {
+                    "nombre": "Grupo La Alianza S.A.",
+                    "telefono": "02622-489110",
+                    "direccion": "Alte. Brown 939"
+                },
+                {
+                    "nombre": "Maderama",
+                    "telefono": "261-4157784",
+                    "direccion": "Alte. Brown 939"
+                }
+            ],
+            "Minimarket": [
+                {
+                    "nombre": "Elda",
+                    "direccion": "Alte. Brown 65"
+                },
+                {
+                    "nombre": "Minimarket Dany",
+                    "telefono": "2622-515089",
+                    "direccion": "Av. Belgrano y Alberdi"
+                }
+            ],
+            "Muebleria": [
+                {
+                    "nombre": "Latorre Muebles",
+                    "telefono": "02622-489386",
+                    "direccion": "Rivadavia 41",
+                    "facebook": "Latorre Muebles"
+                }
+            ],
+            "Musica": [
+                {
+                    "nombre": "DJ Lando",
+                    "telefono": "261-5106445",
+                    "direccion": "Lemos 19 local 2",
+                    "facebook": "Djlando Musica"
+                }
+            ],
+            "Panaderias": [
+                {
+                    "nombre": "Panadería Crisal",
+                    "telefono": "02622-488971 / 2622-538838 ",
+                    "direccion": "Las Heras 666"
+                },
+                {
+                    "nombre": "Rico Sabor",
+                    "telefono": "2622-651538 ",
+                    "direccion": "Belgrano Norte 1711 y Centenario 157"
+                }
+            ],
+            "Pañales": [
+                {
+                    "nombre": "El Señor Pañal",
+                    "direccion": "Urquiza 57"
+                }
+            ],
+            "Pasteleria": [
+                {
+                    "nombre": "GB Detalles com Estilo",
+                    "telefono": "02622-488507 / 261-2483776",
+                    "direccion": "Almte. Brown 958",
+                    "facebook": "GB – Tienda de Regalos - Pastelería"
+                }
+            ],
+            "Peluqueria": [
+                {
+                    "nombre": "Yire Peluquería Unisex",
+                    "telefono": "2622-583897",
+                    "direccion": "Belgrano Norte 1330"
+                }
+            ],
+            "Pescadería": [
+                {
+                    "nombre": "Doña nena",
+                    "telefono": "02622-488422",
+                    "direccion": "25 de Mayo521",
+                    "facebook": "Raul Moyano"
+                }
+            ],
+            "Restaurantes": [
+                {
+                    "nombre": "La Amalia",
+                    "telefono": "02622-488253 / 2622-605935",
+                    "direccion": "Belgrano 435"
+                },
+                {
+                    "nombre": "La Buena Cosecha",
+                    "telefono": "02622-489501 / 2622-664454",
+                    "direccion": "Belgrano 545",
+                    "email": "labcosecha@yahoo.com.ar"
+                },
+                {
+                    "nombre": "Restaurante Don Romulo",
+                    "telefono": "02622-489020 / 261-3535929 / 261-3459448 ",
+                    "Nextel": "693*53"
+                },
+                {
+                    "nombre": "Restaurante Valle de Tupungato",
+                    "telefono": "02622-488421",
+                    "direccion": "Belgrano 540",
+                    "facebook": "Restaurante Valle de Tupunagto"
+                }
+            ],
+            "Salón de Eventos": [
+                {
+                    "nombre": "Casa de Campo La Isabel",
+                    "telefono": "2622-520981"
+                },
+                {
+                    "nombre": "El Quincho",
+                    "telefono": "2622-668343"
+                },
+                {
+                    "nombre": "Tierra Mia Eventos",
+                    "telefono": "261-6014902",
+                    "Nextel": "677*3825",
+                    "direccion": "Italia 289 Bº Los Nogales"
+                },
+                {
+                    "nombre": "Viejo Almacén",
+                    "telefono": "2622-400401",
+                    "direccion": "Moreno 179"
+                }
+            ],
+            "Seguros": [
+                {
+                    "nombre": "Triunfo Seguros",
+                    "telefono": "0810 333 3838",
+                    "web": "www.triunfoseguros.com"
+                }
+            ],
+            "Servicio de Catering": [
+                {
+                    "nombre": "Cesar Muñoz Catering & Eventos",
+                    "telefono": "2622-607174 / 2622-605935",
+                    "direccion": "Moreno 179",
+                    "email": "cesarmuoz81@yahoo.com.ar",
+                    "facebook": "Cesar Muñoz Eventos"
+                },
+                {
+                    "nombre": "Mundo Gourmet LV",
+                    "telefono": "2622-511484 / 261-6240811",
+                    "direccion": "Brantis 234",
+                    "facebook": "Mundo Gourmetklv"
+                }
+            ],
+            "Servicios Financieros": [
+                {
+                    "nombre": "Organización Abraham",
+                    "telefono": "02622-487142 / Cel.: 261-5578046",
+                    "direccion": "Belgrano 657"
+                }
+            ],
+            "Servicios Tecnicos": [
+                {
+                    "nombre": "G Comunicacione",
+                    "telefono": "2622-467397",
+                    "direccion": "Lemos 19 Local 2",
+                    "facebook": "Ge Comunicaciones"
+                },
+                {
+                    "nombre": "Servicio Integral Miranda Reparación de Artículos del Hogar",
+                    "telefono": "02622-489323 / 2622-463896",
+                    "direccion": "B° Los Almendros MD - C2"
+                },
+                {
+                    "nombre": "Taller de Electrodomesticos Liniers",
+                    "telefono": "02622-487318 / 2622-467520",
+                    "direccion": "Liniers 736"
+                }
+            ],
+            "Telefonia Celular": [
+                {
+                    "nombre": "Apolo",
+                    "telefono": "02622-489832",
+                    "direccion": "Correa 208",
+                    "email": "telecomunicacionesapolo@hotmail.com"
+                },
+                {
+                    "nombre": "G Comunicaciones",
+                    "telefono": "2622-467397",
+                    "direccion": "Lemos 19 Local 2",
+                    "facebook": "Ge Comunicaciones"
+                }
+            ],
+            "Tiendas de Ropa": [
+                {
+                    "nombre": "Pitikass Ropa de bebe y niños",
+                    "direccion": "Belgrano Norte 1425"
+                },
+                {
+                    "nombre": "Tienda Santa Rita",
+                    "telefono": "02622-489164",
+                    "direccion": "Belgrano 460"
+                }
+            ],
+            "Venta de Lotes": [
+                {
+                    "nombre": "Barrio cerrado Piedras Blancas Guararal S.A.",
+                    "telefono": "261-3459448 / 261-3535929",
+                    "nextel": "696*53",
+                    "email": "romulo.nieto@hotmail.com"
+                }
+            ],
+            "Venta de Hollas": [
+                {
+                    "nombre": "Demostradora Essen Joaquina Blanco",
+                    "telefono": "02622-488823 / 2622-586239",
+                    "direccion": "San Lorenzo y Las Heras"
+                }
+            ],
+            "Verdulerias": [
+                {
+                    "nombre": "Verduleria Mama Mia",
+                    "direccion": "Alberdi y Las Heras"
+                }
+            ],
+            "Zapaterias": [
+                {
+                    "nombre": "Azahara",
+                    "direccion": "Belgrano 935",
+                    "telefono": "02622-489726"
+                }
+            ]
+        },
+        "Instituciones": {
+            "Bomberos (100)": {
+                "telefono": "02622-488811",
+                "direccion": "Yrigoyen 36"
+            },
+            "Corralon Municipal (agua y saneamiento)": {
+                "telefono": "02622-488385",
+                "direccion": "Almirante Brown 1050"
+            },
+            "Correo Argentino": {
+                "telefono": "02622-488169",
+                "direccion": "Almirante Brown y Lemos"
+            },
+            "Defensa Civil (103)": {
+                "telefono": "2622-574912",
+                "direccion": "Yrigoyen 36"
+            },
+            "Dirección Prov. de Vialidad": {
+                "telefono": "02622-488116 / 2622-438116",
+                "direccion": "Av. Belgrano Norte 1600"
+            },
+            "EDEMSA": {
+                "telefono": "08003333672",
+                "direccion": "Gral. Las Heras 1200"
+            },
+            "Gendarmeria Nacional": {
+                "telefono": "02622-489155",
+                "direccion": "Liniers y Lamadrid"
+            },
+            "Hospital Las Heras Tupungato (107)": {
+                "telefono": "02622-488293",
+                "direccion": "Las Heras y M. Fernandes"
+            },
+            "Hospital Scaravelli Tunuyán (107)": {
+                "telefono": "02622-422104 / 02622-423542",
+                "direccion": "General Güemes 1441"
+            },
+            "Hospital Tagarelli San Carlos (107)": {
+                "telefono": "02622-451111",
+                "direccion": "Bernardo Quiroga y Las Heras"
+            },
+            "Información Turística": {
+                "telefono": "2622-523676",
+                "direccion": "Av. Belgrano 1066"
+            },
+            "Juzgado de Familia Tupungato": {
+                "telefono": "02622-489689 / 02622-489688",
+                "direccion": "Fray Luis Beltrán 73"
+            },
+            "Juzgado de Paz Tupungato": {
+                "telefono": "02622-488554",
+                "direccion": "Fray Luis Beltrán 73"
+            },
+            "Municipalidad de Tupungato": {
+                "telefono": "02622-488015",
+                "direccion": "Av. Belgrano 348"
+            },
+            "Policia (911)": {
+                "telefono": "02622-488590 / 02622-488018",
+                "direccion": "Av. Belgrano 340"
+            },
+            "Registro Civil": {
+                "telefono": "08003302622-487301 33672",
+                "direccion": "Liniers 290"
+            },
+            "Rotary Club distrito 4849": {
+                "telefono": "2622-577772 / 2622-583224"
+            }
+        },
+        "Oficios": {
+            "Canaletas y Cenefas": [
+                {
+                    "nombre": "Juan Gonzales",
+                    "telefono": "2622-693906"
+                }
+            ],
+            "Carpinteria de Madera": [
+                {
+                    "nombre": "Carpinteria Muñoz",
+                    "telefono": "2622-505533",
+                    "direccion": "Roca 176"
+                }
+            ],
+            "Carpinteria Metalica": [
+                {
+                    "nombre": "Servicio Integral Miranda",
+                    "telefono": "02622-489323 / 2622-463896",
+                    "direccion": "B° Los Almendros MD - C2"
+                }
+            ],
+            "Chaperia y Pintura": [
+                {
+                    "nombre": "Giamportone",
+                    "telefono": "2622-433652",
+                    "direccion": "Liniers 1054",
+                    "facebook": "Cristian Giamportone"
+                }
+            ],
+            "Pintores": [
+                {
+                    "nombre": "Gustavo Guiñazu pintura de obra y construcción en seco",
+                    "telefono": "2622-440343"
+                },
+                {
+                    "nombre": "Juan Carlos Muñoz",
+                    "telefono": "2622-649998"
+                }
+            ]
+        },
+        "Profesionales": {
+            "Abogados": [
+                {
+                    "nombre": "Dra. Cecilia Quiroga",
+                    "telefono": "02622-489296 / 261-6863326",
+                    "email": "cecilianquiroga@gmail.com"
+                },
+                {
+                    "nombre": "Dra. Daniela Santos",
+                    "telefono": "02622-489638 / 261-5998686",
+                    "direccion": "San Martín 610 - Piso 3 - Oficina 3 (Ciudad)",
+                    "email": "santosdaniela.v@gmail.com"
+                },
+                {
+                    "nombre": "Dra. Florencia Montaño",
+                    "direccion": "Belgrano 117",
+                    "email": "flor_montano_@hotmail.com"
+                },
+                {
+                    "nombre": "Dra. Silvina Gottardini",
+                    "telefono": "02622-488839 / 2622-466793",
+                    "direccion": "Liniers 1001",
+                    "email": "silvinangottardini@hotmail.com.ar"
+                }
+            ],
+            "Analisis Clinicos": [
+                {
+                    "nombre": "Bio Laboratorio Alcaide - Berducci",
+                    "telefono": "02622-488748",
+                    "direccion": "Las Heras 995",
+                    "email": "biolabab@gmail.com"
+                },
+                {
+                    "nombre": "Laboratorio Bioquímico Dr. Daniel Castillo",
+                    "telefono": "2622-553782",
+                    "direccion": "Mitre 20"
+                }
+            ],
+            "Ecografias": [
+                {
+                    "nombre": "Dr. Hector Lofvall",
+                    "telefono": "02622-489485",
+                    "direccion": "Almirante Brown 622"
+                }
+            ],
+            "Fonoaudiologia": [
+                {
+                    "nombre": "Lic. Melania Torres",
+                    "telefono": "2622-300839",
+                    "direccion": "Boullevard Güemes 115"
+                },
+                {
+                    "nombre": "Lic. Verónica Giaquinta",
+                    "telefono": "2622-574530",
+                    "direccion": "Boullevard Güemes 115"
+                }
+            ],
+            "Higiene y Seguridad Laboral": [
+                {
+                    "nombre": "Ibel Renzetti Blanco",
+                    "telefono": "02622-488863 / 2622-547328",
+                    "email": "renzettiibel@gmail.com"
+                },
+                {
+                    "nombre": "José Luis Guidone",
+                    "telefono": "261-3391905",
+                    "email": "joselguidone7@gmail.com"
+                },
+                {
+                    "nombre": "Marcelo Guidone",
+                    "telefono": "2622-413763",
+                    "direccion": "Bº Oasis M-K C-06",
+                    "email": "marceloguidone@hotmail.com"
+                }
+            ],
+            "Kinesiologia": [
+                {
+                    "nombre": "Lic. Rocío Martinez Ribeiro",
+                    "telefono": "261-6182987",
+                    "direccion": "Boullevard Güemes 115"
+                },
+                {
+                    "nombre": "Kinediv  Lic.: Diego Matias Viotto",
+                    "telefono": "2622-432136",
+                    "direccion": "Laprida 35"
+                },
+                {
+                    "nombre": "Centro de rehabilitación Tupungato Lic. Gustavo Moyano",
+                    "telefono": "261-5081174",
+                    "direccion": "Los Robles 552",
+                    "web": "www.centrotupungato.com.ar",
+                    "email": "centrotupungato@gmail.com"
+                }
+            ],
+            "Medicina de Familia": [
+                {
+                    "nombre": "Dr. Gustavo Marcelo Montero",
+                    "telefono": "02622-489493",
+                    "direccion": "Las Heras y Mosconi"
+                }
+            ],
+            "Medicina General": [
+                {
+                    "nombre": "Dr. Roman Pasquette",
+                    "telefono": "02622-488707 / 2622-673236",
+                    "direccion": "Correa 581"
+                }
+            ],
+            "Nutricionistas": [
+                {
+                    "nombre": "Lic. Fernanda Becerra",
+                    "telefono": "2622-418272",
+                    "direccion": "B° Solares de Correa - Gobernador Moyano 615",
+                    "email": "lic.fernandabecerra@live.com.ar"
+                }
+            ],
+            "Obstetricia": [
+                {
+                    "nombre": "Lic. Claudia Carina Zárate",
+                    "telefono": "2622-655647",
+                    "email": "Clauzara77@gmail.com"
+                }
+            ],
+            "Odontologia": [
+                {
+                    "nombre": "Dra. María Lorena Blanco",
+                    "telefono": "02622-488150",
+                    "direccion": "Belgrano 931"
+                },
+                {
+                    "nombre": "Consultorio Médico Odontológico Valle del Sol",
+                    "telefono": "02622-487261",
+                    "direccion": "Av. Belgrano 969"
+                }
+            ],
+            "Oftalmologia": [
+                {
+                    "nombre": "Dr. Gustavo Videla San Millán",
+                    "telefono": "02622-489485 / 261-5411720",
+                    "direccion": "Almirante Brown 622"
+                }
+            ],
+            "Pedicura": [
+                {
+                    "nombre": "Erika Daiana Puebla",
+                    "telefono": "2622-669200",
+                    "direccion": "Lemos 92"
+                }
+            ],
+            "Psicologia": [
+                {
+                    "nombre": "Lic. Brenda Ugalde",
+                    "telefono": "261-5139467",
+                    "direccion": "Boullevard Güemes 115"
+                },
+                {
+                    "nombre": "Lic. Magister Myrna C. Sevilla",
+                    "telefono": "261-5549333",
+                    "direccion": "Dir.: Boullevard Güemes 115"
+                },
+                {
+                    "nombre": "Lic. Valentina Juri",
+                    "telefono": "261-4199653",
+                    "direccion": "Dir.: Boullevard Güemes 115"
+                },
+                {
+                    "nombre": "Psicologia Infantil Lic. Ximena Olivares",
+                    "telefono": "2622-666392",
+                    "direccion": "Lamadrid 146"
+                },
+                {
+                    "nombre": "Lic. Diego Matias Sanchez",
+                    "telefono": "2622-638250",
+                    "direccion": "Las Heras y Mosconi"
+                }
+            ],
+            "Psiquiatria": [
+                {
+                    "nombre": "Dr. Diego Pizzi",
+                    "telefono": "2613631809",
+                    "direccion": "Boullevard Güemes 115"
+                }
+            ]
+        }
+    }
+}
